@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RutasApp</string>
+     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDr4Zgz2MnnLgJJpHNGjuKq0clv3C_hRxc</string>
+</resources>
